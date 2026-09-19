@@ -1,0 +1,9 @@
+# Chunks held around the pearl. 0 is only that chunk.
+# 1 is 3x3 so a border cross does not drop the entity before the next tick.
+ticket-radius: 1
+
+# Java generates terrain a pearl flies into.
+generate-chunks: true
+
+# Java gamerule enderPearlsVanishOnDeath. Owner death deletes live and parked pearls.
+vanish-on-death: true

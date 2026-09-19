@@ -1,0 +1,7 @@
+name: PearlLoad
+main: dev.grinn34.pearlload.PearlLoadPlugin
+version: "1.2.0"
+api: ["3.0.4"]
+load: STARTUP
+author: grinn34
+description: Ender pearls load the chunk they are in, like Java Edition.
